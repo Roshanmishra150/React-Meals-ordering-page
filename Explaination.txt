@@ -1,0 +1,7 @@
+In Meals Folder
+
+    Meals.js ==> is Responsible to render the list of the meals 
+    AvaliableMeals.js ==> is Responsible to bring actuall meals to the screen 
+    MealsSummary.js ==> is Responsible to render the text of the meals 
+
+
